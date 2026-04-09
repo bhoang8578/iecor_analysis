@@ -1,495 +1,495 @@
-cognateset_ids,n_cognatesets
-183 | 269 | 318 | 448 | 889 | 943 | 1103 | 1230 | 1665 | 1666 | 2437 | 2438 | 2439 | 2442 | 2678 | 2679 | 2680 | 2681 | 2683 | 2685 | 2693 | 2745 | 2746 | 2747 | 3005 | 3006 | 3011 | 3018 | 3019 | 5796 | 7471 | 7486 | 7497,33
-40 | 342 | 1662 | 1806 | 1955 | 1993 | 3436 | 3661 | 5142 | 5156 | 6778 | 7464 | 7547 | 9440,14
-216 | 790 | 837 | 1486 | 1525 | 1567 | 1706 | 4064 | 5968 | 6196 | 7561 | 7563 | 8378 | 8796,14
-123 | 989 | 1115 | 2463 | 2464 | 2567 | 3113 | 3738 | 5284 | 8821 | 9032 | 9218 | 9538,13
-667 | 1580 | 1712 | 1923 | 2804 | 2929 | 4527 | 5264 | 5892 | 6681 | 6801 | 8055 | 8103,13
-309 | 806 | 1158 | 1803 | 2359 | 3539 | 6568 | 6648 | 7106 | 7136 | 8343 | 8692 | 8753,13
-405 | 1010 | 5118 | 5125 | 6060 | 6268 | 6299 | 7330 | 9507 | 9832 | 9852,11
-1709 | 1730 | 2404 | 3612 | 4519 | 5036 | 7246 | 7361 | 7643 | 8599 | 9916,11
-186 | 224 | 343 | 999 | 1902 | 2263 | 5414 | 6077 | 8317,9
-160 | 242 | 339 | 1107 | 2557 | 2748 | 2937 | 2948 | 7520,9
-1144 | 1291 | 1537 | 2259 | 4814 | 4841 | 4845 | 7566,8
-72 | 1919 | 2176 | 2198 | 2238 | 2577 | 5140 | 5536,8
-691 | 739 | 994 | 1783 | 2336 | 2401 | 3845 | 6295,8
-762 | 1594 | 5449 | 6293 | 6846 | 6927 | 8276,7
-222 | 662 | 919 | 1181 | 1226 | 2504 | 2652,7
-333 | 396 | 2243 | 2299 | 3104 | 3850 | 6086,7
-15 | 1881 | 3066 | 3259 | 5199 | 5249 | 5252,7
-424 | 1232 | 1588 | 1933 | 2535 | 2540 | 2754,7
-1298 | 1935 | 1998 | 3551 | 5193 | 6606 | 8806,7
-235 | 239 | 1384 | 2435 | 2441 | 2682 | 3008,7
-275 | 276 | 312 | 2294 | 7428 | 9662 | 9777,7
-4148 | 4948 | 4981 | 6563 | 7585 | 8525,6
-3547 | 4092 | 5227 | 7015 | 7186 | 9186,6
-294 | 1216 | 2486 | 2846 | 5137 | 5213,6
-225 | 1126 | 2783 | 6813 | 8225 | 9252,6
-444 | 1509 | 4903 | 5393 | 5410 | 8842,6
-1461 | 2234 | 5455 | 6235 | 8281 | 8428,6
-625 | 849 | 860 | 1566 | 2045 | 6700,6
-535 | 1003 | 1005 | 3079 | 3084 | 7179,6
-660 | 2839 | 5027 | 5330 | 5824 | 5909,6
-1626 | 3185 | 4906 | 5879 | 6487 | 7117,6
-1576 | 2337 | 2411 | 3832 | 6332 | 7535,6
-1231 | 1252 | 2268 | 3194 | 5097 | 7424,6
-18 | 712 | 788 | 2322 | 2371 | 2972,6
-1 | 447 | 567 | 2534 | 2562 | 4861,6
-384 | 907 | 1039 | 1175 | 2729,5
-335 | 631 | 730 | 1335 | 1370,5
-348 | 1380 | 1388 | 8254 | 9776,5
-3240 | 3249 | 5021 | 9848 | 9849,5
-187 | 935 | 2894 | 3146 | 5262,5
-3212 | 6617 | 7465 | 9975 | 9976,5
-5058 | 5149 | 5209 | 6211 | 7189,5
-375 | 1206 | 5427 | 5975 | 7404,5
-1304 | 2813 | 2930 | 6702 | 7573,5
-1244 | 1855 | 7036 | 9185 | 9446,5
-696 | 5085 | 7787 | 9541 | 9652,5
-579 | 1172 | 2150 | 3395 | 5338,5
-929 | 1028 | 2307 | 2409 | 8690,5
-928 | 1254 | 2312 | 2878 | 7276,5
-697 | 1466 | 1582 | 5064 | 7700,5
-1074 | 3129 | 3506 | 5123 | 5537,5
-1367 | 1874 | 5112 | 7555 | 8099,5
-1369 | 1969 | 4996 | 5093 | 9163,5
-1097 | 2343 | 2712 | 2843 | 5458,5
-1500 | 2036 | 2667 | 3747 | 6703,5
-1334 | 1649 | 6315 | 8326 | 8366,5
-5063 | 6322 | 8585 | 8710 | 9723,5
-1180 | 1207 | 1238 | 4832 | 5215,5
-3285 | 8206 | 8671 | 9182,4
-468 | 1179 | 3580 | 7058,4
-328 | 4968 | 9778 | 9779,4
-3161 | 7115 | 7290 | 9965,4
-190 | 3000 | 3110 | 7540,4
-172 | 1163 | 3214 | 6533,4
-2912 | 8793 | 8814 | 9501,4
-3062 | 3063 | 4114 | 7514,4
-229 | 1195 | 1295 | 7209,4
-257 | 1020 | 6505 | 7629,4
-195 | 1078 | 1080 | 1896,4
-4867 | 6197 | 6947 | 8008,4
-259 | 1889 | 2235 | 6414,4
-80 | 488 | 2364 | 2365,4
-210 | 6370 | 6775 | 7363,4
-280 | 1361 | 1372 | 6380,4
-151 | 503 | 672 | 3138,4
-1583 | 1892 | 6321 | 6715,4
-663 | 1875 | 2394 | 5084,4
-53 | 2457 | 3385 | 7223,4
-986 | 3136 | 5122 | 7756,4
-875 | 1462 | 1519 | 5287,4
-12 | 98 | 4407 | 6758,4
-968 | 6472 | 8364 | 8497,4
-867 | 1085 | 4344 | 4358,4
-1168 | 1641 | 3190 | 3679,4
-1192 | 2273 | 6359 | 7095,4
-1277 | 2986 | 3151 | 6366,4
-45 | 245 | 5932 | 8137,4
-1233 | 1256 | 2588 | 4819,4
-1545 | 6083 | 6232 | 6242,4
-700 | 5101 | 7386 | 9162,4
-520 | 870 | 1337 | 8048,4
-2156 | 2789 | 4076 | 6464,4
-2793 | 5053 | 5083 | 7443,4
-2924 | 5273 | 6261,3
-223 | 252 | 5299,3
-228 | 5345 | 7227,3
-79 | 1156 | 1421,3
-5037 | 5259 | 7072,3
-1246 | 2062 | 5003,3
-86 | 1563 | 5912,3
-5371 | 6020 | 8318,3
-196 | 881 | 6560,3
-4547 | 5081 | 7587,3
-4401 | 6970 | 7320,3
-175 | 748 | 965,3
-157 | 7856 | 9686,3
-145 | 2432 | 4531,3
-6183 | 8480 | 9342,3
-437 | 4583 | 5107,3
-509 | 1030 | 8678,3
-449 | 1499 | 2316,3
-313 | 2214 | 2987,3
-324 | 3016 | 5822,3
-3230 | 5086 | 7796,3
-360 | 7342 | 8382,3
-380 | 842 | 7432,3
-385 | 6793 | 9634,3
-3977 | 3989 | 6727,3
-254 | 6271 | 8119,3
-3348 | 5952 | 5989,3
-185 | 4355 | 4356,3
-299 | 300 | 2614,3
-263 | 1248 | 6875,3
-208 | 237 | 9268,3
-211 | 1240 | 6983,3
-226 | 2742 | 6762,3
-692 | 1575 | 4500,3
-2558 | 2751 | 2761,3
-2526 | 5870 | 7043,3
-613 | 771 | 5040,3
-598 | 5236 | 5442,3
-689 | 2575 | 2576,3
-537 | 1186 | 8396,3
-2806 | 4837 | 7419,3
-91 | 2831 | 2946,3
-2654 | 6646 | 7127,3
-2788 | 7026 | 9429,3
-1394 | 2895 | 8489,3
-2903 | 7234 | 8301,3
-1584 | 6066 | 6277,3
-1687 | 5394 | 7107,3
-1680 | 2959 | 8769,3
-1623 | 3954 | 6868,3
-1798 | 2001 | 3002,3
-1788 | 6440 | 7444,3
-1708 | 2443 | 5094,3
-1698 | 1707 | 6753,3
-1859 | 7126 | 9137,3
-1814 | 3752 | 6611,3
-1894 | 6265 | 8240,3
-832 | 1797 | 4504,3
-816 | 4142 | 6050,3
-831 | 6840 | 7785,3
-796 | 7069 | 9859,3
-754 | 845 | 1643,3
-649 | 1808 | 2245,3
-305 | 2083 | 3074,3
-559 | 2067 | 2625,3
-2011 | 2771 | 5675,3
-2032 | 4980 | 5203,3
-1957 | 3389 | 4864,3
-2515 | 5319 | 5872,3
-2473 | 4015 | 6521,3
-2267 | 2304 | 2707,3
-2318 | 2325 | 2825,3
-2370 | 6657 | 7319,3
-2377 | 7318 | 7567,3
-121 | 701 | 6963,3
-2196 | 4187 | 5290,3
-2239 | 4919 | 6592,3
-1514 | 6541 | 6582,3
-1076 | 6729 | 6757,3
-1089 | 6209 | 6297,3
-1111 | 5133 | 7789,3
-1091 | 2338 | 9780,3
-1308 | 1356 | 8433,3
-953 | 2649 | 8071,3
-966 | 2158 | 2542,3
-956 | 1265 | 6576,3
-1510 | 3304 | 4381,3
-1512 | 1534 | 2823,3
-1498 | 5152 | 6526,3
-1502 | 2482 | 8269,3
-1326 | 1480 | 2939,3
-1477 | 1506 | 3023,3
-1016 | 7989 | 8019,3
-982 | 2741 | 5391,3
-892 | 1259 | 8295,3
-865 | 1454 | 6682,3
-330 | 1167 | 1915,3
-1173 | 1406 | 1721,3
-497 | 1065 | 2840,3
-1064 | 1792 | 1970,3
-1218 | 2211 | 3116,3
-1194 | 1860 | 1924,3
-68 | 154 | 8667,3
-71 | 191 | 2984,3
-1112 | 1508 | 5668,3
-76 | 93 | 2726,3
-1143 | 1737 | 2837,3
-42 | 760 | 9517,3
-27 | 3691 | 8948,3
-14 | 1857 | 7235,3
-2877 | 9633,2
-25 | 3393,2
-29 | 131,2
-5343 | 6713,2
-6707 | 7023,2
-2677 | 6692,2
-6690 | 6694,2
-6639 | 8257,2
-6578 | 6814,2
-266 | 6523,2
-6462 | 6485,2
-1386 | 6459,2
-6363 | 6461,2
-6286 | 7794,2
-2356 | 6253,2
-6065 | 6247,2
-1558 | 6245,2
-6217 | 8405,2
-1547 | 6177,2
-1042 | 1403,2
-1296 | 7109,2
-1271 | 2583,2
-1267 | 3050,2
-1262 | 5327,2
-1247 | 6104,2
-1212 | 1412,2
-1209 | 2868,2
-1202 | 5100,2
-1190 | 5188,2
-1183 | 5124,2
-1169 | 1297,2
-1142 | 7104,2
-1135 | 1152,2
-1130 | 1147,2
-1127 | 1941,2
-1464 | 5151,2
-1459 | 1523,2
-1448 | 7984,2
-1409 | 8289,2
-1363 | 1365,2
-1359 | 6907,2
-1331 | 1333,2
-1329 | 2834,2
-1324 | 2890,2
-1317 | 2773,2
-1110 | 7760,2
-1109 | 3292,2
-1087 | 2366,2
-1083 | 4079,2
-1069 | 7335,2
-293 | 1046,2
-1565 | 6169,2
-1539 | 2287,2
-1515 | 8706,2
-1484 | 2647,2
-1479 | 5148,2
-1474 | 6212,2
-1040 | 4369,2
-1025 | 3378,2
-1023 | 2148,2
-985 | 2171,2
-976 | 1079,2
-964 | 5172,2
-960 | 1447,2
-957 | 961,2
-951 | 1274,2
-1471 | 7479,2
-1658 | 2853,2
-1633 | 9514,2
-1617 | 3359,2
-1610 | 3966,2
-1585 | 4117,2
-950 | 7639,2
-944 | 8072,2
-937 | 2639,2
-927 | 4561,2
-925 | 2709,2
-917 | 1399,2
-910 | 1728,2
-903 | 9168,2
-895 | 3170,2
-883 | 9287,2
-863 | 8381,2
-782 | 946,2
-776 | 3115,2
-750 | 7044,2
-1901 | 4843,2
-1871 | 6789,2
-1863 | 2281,2
-1856 | 1862,2
-1851 | 9650,2
-1809 | 7597,2
-1726 | 6737,2
-1686 | 1722,2
-1720 | 2256,2
-1716 | 9537,2
-1694 | 1936,2
-1688 | 7184,2
-1667 | 4558,2
-1059 | 2147,2
-2144 | 8681,2
-2108 | 4735,2
-2046 | 2049,2
-2040 | 2223,2
-2012 | 4654,2
-1990 | 2013,2
-1968 | 2851,2
-1820 | 1951,2
-1880 | 1911,2
-854 | 5530,2
-850 | 6166,2
-836 | 2507,2
-823 | 1676,2
-808 | 6514,2
-793 | 2836,2
-2301 | 8107,2
-2296 | 8096,2
-2293 | 9963,2
-316 | 2269,2
-1877 | 2264,2
-2225 | 5281,2
-1139 | 2201,2
-368 | 2179,2
-2169 | 7271,2
-532 | 736,2
-720 | 6862,2
-704 | 7343,2
-695 | 8431,2
-686 | 6354,2
-678 | 2863,2
-668 | 671,2
-575 | 2610,2
-565 | 6750,2
-519 | 2791,2
-515 | 913,2
-698 | 2622,2
-1460 | 2568,2
-1364 | 2545,2
-2538 | 2826,2
-2456 | 3058,2
-2448 | 2982,2
-2430 | 2431,2
-2419 | 5141,2
-2405 | 4200,2
-2373 | 5819,2
-2368 | 4726,2
-2360 | 3135,2
-2842 | 2847,2
-2822 | 5022,2
-2689 | 2820,2
-2798 | 2799,2
-161 | 2750,2
-403 | 2743,2
-2324 | 2725,2
-2724 | 3103,2
-2703 | 4555,2
-2436 | 2694,2
-2638 | 2710,2
-640 | 3740,2
-600 | 628,2
-619 | 5163,2
-592 | 605,2
-583 | 3344,2
-464 | 5451,2
-421 | 2000,2
-411 | 7068,2
-404 | 3855,2
-402 | 5617,2
-3060 | 3824,2
-3055 | 6353,2
-3036 | 6841,2
-2213 | 2998,2
-2996 | 5145,2
-2967 | 3004,2
-978 | 2918,2
-2910 | 8244,2
-2905 | 8340,2
-1068 | 2857,2
-2852 | 6152,2
-3313 | 3333,2
-3247 | 3315,2
-3217 | 3236,2
-3153 | 4862,2
-3141 | 8102,2
-2493 | 3122,2
-3111 | 6202,2
-3090 | 5924,2
-3082 | 7745,2
-3080 | 4498,2
-3067 | 9606,2
-510 | 513,2
-490 | 2991,2
-455 | 489,2
-388 | 480,2
-471 | 485,2
-4121 | 8369,2
-4072 | 4368,2
-3856 | 6408,2
-2497 | 3836,2
-3614 | 4622,2
-3603 | 9115,2
-3501 | 5109,2
-1022 | 3398,2
-3381 | 8707,2
-636 | 3343,2
-365 | 367,2
-340 | 1442,2
-338 | 1133,2
-332 | 6948,2
-314 | 1700,2
-3324 | 5401,2
-4907 | 5074,2
-1463 | 4901,2
-4828 | 4833,2
-4594 | 6094,2
-4586 | 7356,2
-4585 | 9945,2
-4508 | 6878,2
-1017 | 4366,2
-885 | 4365,2
-4150 | 8735,2
-115 | 308,2
-291 | 7034,2
-283 | 5157,2
-250 | 287,2
-248 | 2708,2
-4125 | 7302,2
-5432 | 8365,2
-5339 | 6254,2
-1526 | 5313,2
-5271 | 6693,2
-5265 | 6774,2
-1375 | 5228,2
-880 | 5115,2
-5113 | 5453,2
-4987 | 6014,2
-4966 | 5214,2
-2152 | 4951,2
-201 | 2305,2
-193 | 2502,2
-188 | 4865,2
-4934 | 4941,2
-3390 | 4918,2
-6145 | 6146,2
-6111 | 8198,2
-6110 | 8487,2
-856 | 6057,2
-6013 | 6249,2
-5920 | 6458,2
-2189 | 5845,2
-5834 | 6206,2
-5738 | 7952,2
-2200 | 5445,2
-5435 | 5982,2
-178 | 2492,2
-132 | 2978,2
-127 | 1940,2
-119 | 5867,2
-108 | 5054,2
-44 | 6732,2
-6710 | 9568,2
-9474 | 9515,2
-9470 | 9577,2
-9445 | 9512,2
-1290 | 9428,2
-8535 | 8536,2
-2103 | 8303,2
-8286 | 8530,2
-8248 | 8249,2
-8233 | 9337,2
-8223 | 9362,2
-6903 | 9443,2
-1625 | 6861,2
-2706 | 6852,2
-6836 | 7381,2
-7 | 4524,2
-3042 | 7753,2
-7742 | 9279,2
-1153 | 7649,2
-267 | 7633,2
-4006 | 7588,2
-753 | 7564,2
-1682 | 7508,2
-7493 | 8388,2
-1560 | 7478,2
-323 | 7472,2
-6655 | 7468,2
-7345 | 9431,2
-768 | 7236,2
-7057 | 9518,2
-6957 | 8346,2
+cognateset_ids,n_cognatesets,root_forms,root_languages
+183 | 269 | 318 | 448 | 889 | 943 | 1103 | 1230 | 1665 | 1666 | 2437 | 2438 | 2439 | 2442 | 2678 | 2679 | 2680 | 2681 | 2683 | 2685 | 2693 | 2745 | 2746 | 2747 | 3005 | 3006 | 3011 | 3018 | 3019 | 5796 | 7471 | 7486 | 7497,33,"*kʷo- | *(H)an- | *só-, *tó- | nan | nan | nan | *(h)ei- | *i̯o- | nan | *h₂ol-no- | *h₁en-, *h₁on- | nan | nan | nan | nan | nan | nan | *h₁eno- | nan | nan | nan | *-ei̯es | *só- ~ *tó- | *u | *Heu̯- (*(h₁)au̯-?) | *(H)oi̯nó- | *h₁al- ~ *h₁an- | *(h₁)e-séh₂ =u | *(h₁)í-/(h₁)éi ~ *(h₁)e-/*(h₁)ó-",nan | nan | Proto-Indo-European | nan | nan | nan | nan | Proto-Indo-European | nan | Proto-Indo-European | Proto-Indo-European | nan | nan | nan | nan | nan | nan | Proto-Indo-European | nan | nan | nan | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+40 | 342 | 1662 | 1806 | 1955 | 1993 | 3436 | 3661 | 5142 | 5156 | 6778 | 7464 | 7547 | 9440,14,nan | *h₂u̯eh₁- | *h₂u̯eh₁- | nan | *u̯eg̑ʰ- | *u̯eg̑ʰ- | *h₂u̯eh₁- | *u̯eg̑ʰ- | *u̯eg̑ʰ- | ?*h₂u̯eh₁- | *u̯eg̑ʰ- | *u̯eg̑ʰ- | *u̯eg̑ʰ- | *weϸra- ~ *wedra-,nan | Proto-Indo-European | Proto-Indo-European | nan | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Germanic
+216 | 790 | 837 | 1486 | 1525 | 1567 | 1706 | 4064 | 5968 | 6196 | 7561 | 7563 | 8378 | 8796,14,*pet- | pattrala- | *pet- | *pet- | *pet- | nan | *pet- | *pet- | *pet- | *pet- | *pet- | *pet- | *pet-,Proto-Indo-European | Sanskrit | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | nan | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+123 | 989 | 1115 | 2463 | 2464 | 2567 | 3113 | 3738 | 5284 | 8821 | 9032 | 9218 | 9538,13,*dʰu̯eh₂- | nan | *dʰu̯es- | *dʰu̯ens- | *dʰmeH- | *dʰmeH- | *dʰmeH- | nan | *dʰmeH- | *dʰmeH- | *dʰmeH-,Proto-Indo-European | nan | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | nan | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+667 | 1580 | 1712 | 1923 | 2804 | 2929 | 4527 | 5264 | 5892 | 6681 | 6801 | 8055 | 8103,13,*pleth₂- | *pleth₂- | *pleh₂- | *pleh₂- | *pleh₂- | nan | *pleh₂- | *pleh₂- | *pleh₂- | *pleth₂- | *pleh₂- | *pleh₂- | *pleh₂-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | nan | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+309 | 806 | 1158 | 1803 | 2359 | 3539 | 6568 | 6648 | 7106 | 7136 | 8343 | 8692 | 8753,13,*steh₂- | *steh₂- | *steh₂- | *steh₂- | *steh₂- | *steh₂- | *steh₂- | *steh₂- | *steh₂- | *steh₂- | *steh₂- | *steh₂- | *steh₂-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+405 | 1010 | 5118 | 5125 | 6060 | 6268 | 6299 | 7330 | 9507 | 9832 | 9852,11,*deh₃- | *-dī- | *dʰeh₁- | *dʰeh₁- | *deh₃- | *deh₃- | *deh₃- | *dʰeh₁- | *dʰeh₁- | Proto-Indo-European | *dʰeh₁- ,Proto-Indo-European | Proto-Insular-Celtc | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | *dʰeh₁- | Proto-Indo-European
+1709 | 1730 | 2404 | 3612 | 4519 | 5036 | 7246 | 7361 | 7643 | 8599 | 9916,11,*bʰer- | *bʰer- | *bʰer- | *bʰer- | *bʰer- | *bʰer- | *bʰer- | *bʰer- | *bʰer- | nan | *bʰer-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | nan | Proto-Indo-European
+186 | 224 | 343 | 999 | 1902 | 2263 | 5414 | 6077 | 8317,9,?*pleu̯k- | ?*pleu̯k- | ?*pleu̯k- | *pleu̯- | ?*pleu̯k- | ?*pleu̯k- | ?*pleu̯k- | nan | ?*pleu̯k-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | nan | Proto-Indo-European
+160 | 242 | 339 | 1107 | 2557 | 2748 | 2937 | 2948 | 7520,9,"*kʷí- ~ *kʷei-, *kʷe-, *kʷó- | *kʷó- | *kʷo- | nan | nan | *kʷi- | *kʷí- ~ *kʷei-, *kʷe-, *kʷó-",Proto-Indo-European | Proto-Indo-European | nan | nan | nan | nan | Proto-Indo-European
+1144 | 1291 | 1537 | 2259 | 4814 | 4841 | 4845 | 7566,8,*der- | *gelH- | *der- | *der- | *der- | *gelH- | golá | *der-,Proto-Indo-European | Proto-Slavic | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Sorbian: Lower | Proto-Indo-European
+72 | 1919 | 2176 | 2198 | 2238 | 2577 | 5140 | 5536,8,*gʷi̯eh₃- | *gʷi̯eh₃- | *gʷi̯eh₃- | *gʷi̯eh₃- | *gʷi̯eh₃- | *gʷi̯eh₃- | *gʷi̯eh₃- | *gʷi̯eh₃-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+691 | 739 | 994 | 1783 | 2336 | 2401 | 3845 | 6295,8,*leu̯k- | *leu̯k- | *leu̯k- | *leu̯k- | *leu̯k- | *leu̯k- | *leu̯k- | *leu̯k-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+762 | 1594 | 5449 | 6293 | 6846 | 6927 | 8276,7,*(s)kert- | *(s)kert- | *(s)kert- | *(s)kert- | *(s)kert- | *(s)kert- | *(s)kert-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+222 | 662 | 919 | 1181 | 1226 | 2504 | 2652,7,*pleu̯- | *pleu̯- | *pleu̯- | *pleu̯- | *pleu̯- | *pleu̯- | *pleh₃-,nan | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+333 | 396 | 2243 | 2299 | 3104 | 3850 | 6086,7,*gʷʰer- | *gʷʰer- | *gʷʰer- | *gʷʰer- | nan | *gʷʰer- | *gʷʰer-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | nan | Proto-Indo-European | Proto-Indo-European
+15 | 1881 | 3066 | 3259 | 5199 | 5249 | 5252,7,*tekʷ- | *tekʷ- | *tekʷ- | *tekʷ- | *tekʷ- | *tekʷ- | *tekʷ-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | nan
+424 | 1232 | 1588 | 1933 | 2535 | 2540 | 2754,7,*h₁enter- | *h₁enter- | *h₁enter- | *en | nan,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | nan | nan
+1298 | 1935 | 1998 | 3551 | 5193 | 6606 | 8806,7,*gʷʰen- | *gʷʰen- | *gʷʰen- | *gʷʰen- | *gʷʰen- | *gʷʰen- | *gʷʰen-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+235 | 239 | 1384 | 2435 | 2441 | 2682 | 3008,7,nan | *k̑o- ~ *k̑i- | *(h₁)e-k̑e(i̯) | *k̑í- ~ *k̑ó- | nan | nan,nan | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | nan | nan
+275 | 276 | 312 | 2294 | 7428 | 9662 | 9777,7,*h₃reg̑- | *h₃reg̑- | *h₃reg̑- | nan | *h₃reg̑- | *h₃reg̑- | *h₃reg̑-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | nan | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+4148 | 4948 | 4981 | 6563 | 7585 | 8525,6,*peu(-t)- | *peu̯s- | *peu̯s- | *peu̯s- | *peu̯s- | *peu̯s-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+3547 | 4092 | 5227 | 7015 | 7186 | 9186,6,*gʰrebh₂- | *gʰrebh₂- | *gʰrebh₂- | *gʰrebh₂- | *gʰrebh₂-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+294 | 1216 | 2486 | 2846 | 5137 | 5213,6,*sed- | *sed- | *sed- | *ṭheḍḍ- | *sed- | *sed-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Indic | Proto-Indo-European | Proto-Indo-European
+225 | 1126 | 2783 | 6813 | 8225 | 9252,6,*ped- | *ped- | *ped- | *ped- | *ped- | *ped-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+444 | 1509 | 4903 | 5393 | 5410 | 8842,6,*h₃er- | *h₃er- | *h₃er- | *h₃er- | *h₃er- | *h₃er-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1461 | 2234 | 5455 | 6235 | 8281 | 8428,6,*k̑eh₂u̯- | *k̑eh₂u̯- | *k̑eh₂u̯- | *k̑eh₂u̯- | *k̑eh₂u̯- | *k̑eh₂u̯-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+625 | 849 | 860 | 1566 | 2045 | 6700,6,?*h₂enh₁- | *h₂enh₁- | *h₂enh₁- | *h₂enh₁- | anima | *h₂enh₁-,Proto-Indo-European | nan | Proto-Indo-European | Proto-Indo-European | Latin | Proto-Indo-European
+535 | 1003 | 1005 | 3079 | 3084 | 7179,6,*(s)neh₂- | nan | *(s)neh₂- | *(s)neh₂- | nan | *(s)neh₂-,Proto-Indo-European | nan | Proto-Indo-European | Proto-Indo-European | nan | Proto-Indo-European
+660 | 2839 | 5027 | 5330 | 5824 | 5909,6,*dʰerg̑ʰ- | *dʰre⁽g̑⁾ʰ- | *dʰre⁽g̑⁾ʰ- | *dʰre⁽g̑⁾ʰ- | *dʰre⁽g̑⁾ʰ- | *dʰre⁽g̑⁾ʰ-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1626 | 3185 | 4906 | 5879 | 6487 | 7117,6,*kʷelh₁- | *kʷelh₁- | *kʷelh₁- | *kʷelh₁- | *kʷelh₁- | *kʷelh₁-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1576 | 2337 | 2411 | 3832 | 6332 | 7535,6,*g̑elh₃- | *g̑ʰelh₃- | *g̑ʰelh₃- | *g̑ʰelh₃- | *g̑ʰelh₃- | *g̑ʰelh₃-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1231 | 1252 | 2268 | 3194 | 5097 | 7424,6,*h₃neg⁽ʷ⁾ʰ- | *h₃neg⁽ʷ⁾ʰ- | *h₃neg⁽ʷ⁾ʰ- | *h₃neg⁽ʷ⁾ʰ- | *h₃neg⁽ʷ⁾ʰ- | *h₃neg⁽ʷ⁾ʰ-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+18 | 712 | 788 | 2322 | 2371 | 2972,6,*mer- | *mer- | *mer- | *mer- | *mer- | nan,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | nan
+1 | 447 | 567 | 2534 | 2562 | 4861,6,nan | një | nan | *h₁epi | *kʷo- | nan,nan | Albanian | nan | Proto-Indo-European | nan | nan
+384 | 907 | 1039 | 1175 | 2729,5,"*dʰég̑ʰ-om-, *dʰg̑ʰ-ém-, *dʰg̑ʰ-m- | *dʰég̑ʰ-om-, *dʰg̑ʰ-ém-, *dʰg̑ʰ-m- | *dʰég̑ʰ-om-, *dʰg̑ʰ-ém-, *dʰg̑ʰ-m- | *dʰég̑ʰ-om-, *dʰg̑ʰ-ém-, *dʰg̑ʰ-m- | nan",Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | nan
+335 | 631 | 730 | 1335 | 1370,5,*u̯ed- | *u̯ed- | *u̯ed- | *u̯ed- | *u̯ed-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+348 | 1380 | 1388 | 8254 | 9776,5,*u̯r̥mi- | *u̯r̥mi- | nan | *u̯r̥mi- | *u̯r̥mi-,Proto-Indo-European | Proto-Indo-European | nan | Proto-Indo-European | Proto-Indo-European
+3240 | 3249 | 5021 | 9848 | 9849,5,*kʷi̯eu̯- | *kʷi̯eu̯- | *kʷi̯eu̯- | *kʷi̯eu̯-  | nan,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | nan
+187 | 935 | 2894 | 3146 | 5262,5,*bʰei̯d- | *bʰei̯d- | *bʰei̯d- | nan | *bʰei̯d-,Proto-Indo-European | nan | Proto-Indo-European | nan | Proto-Indo-European
+3212 | 6617 | 7465 | 9975 | 9976,5,*terh₂- | *terh₂- | *terh₂- | *terh₂- | *terh₂-,Proto-Indo-European | Proto-Indo-European | Proto-Indo European | Proto-Indo European | Proto-Indo European
+5058 | 5149 | 5209 | 6211 | 7189,5,*s⁽k̑⁾eH- | *těn- | *stěn- | *s⁽k̑⁾eH- | *s⁽k̑⁾eH-,Proto-Indo-European | Proto-Slavic | Proto-Slavic | Proto-Indo-European | Proto-Indo-European
+375 | 1206 | 5427 | 5975 | 7404,5,*dei̯- | *dei̯- | *dei̯- | *dei̯- | *dei̯-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1304 | 2813 | 2930 | 6702 | 7573,5,*mei̯H- | *mei̯H- | *mei̯H- | *mei̯H- | *mei̯H-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1244 | 1855 | 7036 | 9185 | 9446,5,*keh₂u̯- | *keh₂u̯- | *keh₂u̯- | *keh₂u̯- | *keh₂u̯-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+696 | 5085 | 7787 | 9541 | 9652,5,*kʷek̑- | *kʷek̑- | *kʷek̑- | *kʷek̑-  | *kʷek̑-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+579 | 1172 | 2150 | 3395 | 5338,5,*nebʰ- | *nebʰ- | *nebʰ- | *nebʰ- | *nebʰ-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+929 | 1028 | 2307 | 2409 | 8690,5,*u̯ei̯d- | *u̯ei̯d- | *u̯ei̯d- | *u̯ei̯d- | *u̯ei̯d-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+928 | 1254 | 2312 | 2878 | 7276,5,*pekʷ- | *pekʷ- | nan | *pekʷ- | *pekʷ-,Proto-Indo-European | Proto-Indo-European | nan | Proto-Indo-European | Proto-Indo-European
+697 | 1466 | 1582 | 5064 | 7700,5,*(s)kep- | *(s)kep- | *(s)kep- | *(s)kep- | *(s)kep-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1074 | 3129 | 3506 | 5123 | 5537,5,*u̯idʰh₁ú- | *u̯idʰh₁ú- | *u̯idʰh₁ú- | *h₁u̯idʰh₁u-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1367 | 1874 | 5112 | 7555 | 8099,5,*melh₂- | *melh₂- | *melh₂- | *melh₂- | *melh₂-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1369 | 1969 | 4996 | 5093 | 9163,5,*u̯ei̯h₁- | *u̯ei̯h₁- | *u̯ei̯h₁- | *u̯ei̯h₁- | *u̯ei̯h₁-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1097 | 2343 | 2712 | 2843 | 5458,5,nan | aste | v′ia- | *u̯edʰ(h₁)- | *u̯edʰ(h₁)-,nan | Latvian | Nuristani | Proto-Indo-European | Proto-Indo-European
+1500 | 2036 | 2667 | 3747 | 6703,5,*peh₂g̑- | *peh₂g̑-  | *peh₂g̑- | *peh₂g̑- | *peh₂g̑-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1334 | 1649 | 6315 | 8326 | 8366,5,*g̑ʰengʰ- | *g̑ʰengʰ- | *g̑ʰengʰ- | *g̑ʰengʰ- | *(s)ken⁽g̑⁾-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+5063 | 6322 | 8585 | 8710 | 9723,5,*gʰas- | *gʰas- | *gʰas- | *gʰas-,Proto-Indo-Iranic | Proto-Indo-Iranic | Proto-Indo-Iranic  | Proto-Indo-Iranic
+1180 | 1207 | 1238 | 4832 | 5215,5,"*pr̥-, *pró, *prí | *pro- | *pr̥-, *pró, *prí | *pr̥-, *pró, *prí | *pr̥-, *pró, *prí",Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+3285 | 8206 | 8671 | 9182,4,*hu̯ah- | *hu̯ah- | *hu̯ah- | *hu̯ah-,Proto-Iranic | Proto-Iranic | Proto-Iranic | Proto-Iranic
+468 | 1179 | 3580 | 7058,4,*h₂ek̑- | *h₂ek̑- | *h₂ek̑- | *h₂ek̑-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+328 | 4968 | 9778 | 9779,4,*Hd-ónt- | *Hd-ónt- | *Hd-ónt- | *Hd-ónt-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+3161 | 7115 | 7290 | 9965,4,*g̑i̯eu̯H- | *g̑i̯eu̯H-  | *g̑i̯eu̯H-  | *g̑i̯eu̯H-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+190 | 3000 | 3110 | 7540,4,*bʰleh₁- | *bʰleh₁- | *bʰleh₁- | *bʰleh₁-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+172 | 1163 | 3214 | 6533,4,*kʷr̥mi- | *kʷr̥mi- | *kʷr̥mi- | *kʷr̥mi-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+2912 | 8793 | 8814 | 9501,4,*gandʰá- | *gandʰá- | *gandʰá- | *gandʰá-,Proto-Indo-Iranic | Proto-Indo-Iranic | Proto-Indo-Iranic | Proto-Indo-Iranic
+3062 | 3063 | 4114 | 7514,4,*gar- | gȳrāre | ghūrṇa- | ghūrṇati,Proto-Iranic | Latin | Sanskrit | Sanskrit
+229 | 1195 | 1295 | 7209,4,?*gʰedʰ- | ?*gʰedʰ-  | ?*gʰedʰ- | ?*gʰedʰ-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+257 | 1020 | 6505 | 7629,4,?*delh₁- | nan | ?*delh₁- | ?*delh₁-,Proto-Indo-European | nan | Proto-Indo-European | Proto-Indo-European
+195 | 1078 | 1080 | 1896,4,*u̯elg- | *u̯elg- | *u̯elg- | *u̯elg-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+4867 | 6197 | 6947 | 8008,4,*h₃rei̯H- | *h₃rei̯H- | *h₃rei̯H- | *h₃rei̯H-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+259 | 1889 | 2235 | 6414,4,*pleh₁- | *pleh₁- | *pleh₁- | *pleh₁-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+80 | 488 | 2364 | 2365,4,*gʷerH- | *gʷerH- | *gʷerH- | *gʷerH-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+210 | 6370 | 6775 | 7363,4,*h₁ed- | *h₁ed- | *h₁ed- | *h₁ed-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+280 | 1361 | 1372 | 6380,4,nan | *taug- | *deu̯k- | *deu̯k-,nan | Proto-Germanic | Proto-Indo-European | Proto-Indo-European
+151 | 503 | 672 | 3138,4,*dregʰ- | *déru- ~ *dóru- ~ *dru- | antaṙ,Proto-Indo-European | Proto-Indo-European | Armenian: Classical
+1583 | 1892 | 6321 | 6715,4,?*kʷu̯ap- | nan | ?*kʷu̯ap- | ?*kʷu̯ap-,Proto-Indo-European | nan | Proto-Indo-European | Proto-Indo-European
+663 | 1875 | 2394 | 5084,4,*i̯uHr- | *i̯uHr- | *u̯eh₁- | *u̯eh₁-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+53 | 2457 | 3385 | 7223,4,*k̑er- | *k̑er- | *k̑er- | *k̑er-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+986 | 3136 | 5122 | 7756,4,*kelh₂- | nan | *kelh₂- | *kelh₂-,Proto-Indo-European | nan | Proto-Indo-European | Proto-Indo-European
+875 | 1462 | 1519 | 5287,4,*peh₂u̯- | *peh₂u̯- | *peh₂u̯- | *peh₂u̯-,nan | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+12 | 98 | 4407 | 6758,4,*ćau̯k- | *ćau̯k- | *ćau̯k- | *ćau̯k-,Proto-Indo-Iranic | Proto-Indo-Iranic | Proto-Indo-Iranic | Proto-Indo-Iranic
+968 | 6472 | 8364 | 8497,4,*leh₃u̯-  | nan | *leh₃u̯- | *leh₃u̯-,Proto-Indo-European | nan | Proto-Indo-European | Proto-Indo-European
+867 | 1085 | 4344 | 4358,4,*sek- | nan | secc | [siccus],Proto-Indo-European | nan | Old Irish | Brythonic
+1168 | 1641 | 3190 | 3679,4,?*pē(n)s- | ?*pē(n)s- | ?*pē(n)s- | ?*pē(n)s-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1192 | 2273 | 6359 | 7095,4,?*(s)k⁽ʷ⁾rei̯- | ?*(s)k⁽ʷ⁾rei̯- | ?*(s)k⁽ʷ⁾rei̯- | ?*(s)k⁽ʷ⁾rei̯-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1277 | 2986 | 3151 | 6366,4,*dʰeh₁(i̯)- | *dʰeh₁(i)- | *dʰeh₁(i̯)- | *dʰeh₁(i̯)-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+45 | 245 | 5932 | 8137,4,*ai̯xa- | *īsa- | *ai̯xa- | *ai̯xa-,Proto-Iranic | Proto-Germanic | Proto-Iranic | Proto-Iranic
+1233 | 1256 | 2588 | 4819,4,*reu̯H- | *reu̯H- | *reu̯H- | *reu̯H-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1545 | 6083 | 6232 | 6242,4,ξύλον / ksýlon | *ksúlo- | *ksúlo- | *perh₃-,Greek: Ancient | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+700 | 5101 | 7386 | 9162,4,*(s)per- | *(s)per- | *(s)per- | *(s)per-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+520 | 870 | 1337 | 8048,4,*ters- | *ters- | nan | *ters-,Proto-Indo-European | Proto-Indo-European | nan | Proto-Indo-European
+2156 | 2789 | 4076 | 6464,4,*kok̑s- | *kok̑s- | *kok̑s- | *kok̑s-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+2793 | 5053 | 5083 | 7443,4,*h₂u̯es- | *h₂u̯es- | *h₂u̯es- | *h₂u̯es-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+2924 | 5273 | 6261,3,ἴσος / ísos | ἴσος / ísos | ἴσος / ísos,Greek: Ancient | Greek: Ancient | Greek: Ancient
+223 | 252 | 5299,3,*bʰleh₃- | *bʰleh₃- | *bʰleh₃-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+228 | 5345 | 7227,3,*gʰebʰ- | ?*⁽g̑⁾ʰeHb- | *gʰebʰ-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+79 | 1156 | 1421,3,*méh₂ter- | mama,Proto-Indo-European | nan
+5037 | 5259 | 7072,3,*kʷer- | *kʷer- | *kʷer-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1246 | 2062 | 5003,3,*xvost- | *x(v)ot- | *x(v)ot-,Proto-Slavic | Proto-Slavic | Proto-Slavic
+86 | 1563 | 5912,3,*neu̯- | *neu̯- | *neu̯-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+5371 | 6020 | 8318,3,φυσάω / physáō | φυσάω / physáō | φούσκα / phoúska,Greek: Ancient | Greek: Ancient | nan
+196 | 881 | 6560,3,*⁽g̑⁾el- | *⁽g̑⁾el- | *⁽g̑⁾el-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+4547 | 5081 | 7587,3,*či̯aH- | *či̯aH- | *či̯aH-,Proto-Indo-Iranic | Proto-Indo-Iranic | Proto-Indo-Iranic
+4401 | 6970 | 7320,3,*(h₁)rei̯k⁽ʷ⁾h₂- | *(h₁)rei̯k⁽ʷ⁾h₂- | *(h₁)rei̯k⁽ʷ⁾(h₂)-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+175 | 748 | 965,3,nan | *sol-u̯o- | nan,nan | Proto-Indo-European | nan
+157 | 7856 | 9686,3,*h₂ep- | *h₂ep- | *h₂ep-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+145 | 2432 | 4531,3,*tú ~ *t(u̯)e- | yuṣmad-/um- | yuṣmad-/um-,Proto-Indo-European | Sanskrit/Tamil? | Sanskrit/Tamil?
+6183 | 8480 | 9342,3,*h₁eu̯s- | *h₁eu̯s- | *h₁eu̯s-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+437 | 4583 | 5107,3,*mē(m)s- | *mē(m)s- | *mē(m)s-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+509 | 1030 | 8678,3,*seh₁- | *seh₁- | *seh₁-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+449 | 1499 | 2316,3,*h₂ner- | *h₂nēr- | *h₂ner-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+313 | 2214 | 2987,3,*seu̯k̑- | nan,nan | nan
+324 | 3016 | 5822,3,*(H)i̯u(H)- ~ *u̯os | *(H)i̯u(H)- ~ *u̯os,Proto-Indo-European | Proto-Indo-European
+3230 | 5086 | 7796,3,*čárman- | *(s)ker- | *(s)ker-,Proto-Indo-Iranic | Proto-Indo-European | Proto-Indo-European
+360 | 7342 | 8382,3,*meg̑- | *meg̑- | *meg̑-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+380 | 842 | 7432,3,*peh₃(i̯)- | *peh₃(i̯)- | *peh₃(i̯)-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+385 | 6793 | 9634,3,*kʰād- | *kʰād-,Proto-Indo-Iranic | Proto-Indo-Iranic
+3977 | 3989 | 6727,3,*śuḍa- | *kuḍa-,Indic | Indic
+254 | 6271 | 8119,3,*legʰ- | *legʰ- | *legʰ-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+3348 | 5952 | 5989,3,*sengʷ- ‎  | *sengʷ- | *sengʷ- ‎,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+185 | 4355 | 4356,3,*gʰreu̯d- | *brasso- | nan,Proto-Indo-European | Proto-Celtic | Provençal
+299 | 300 | 2614,3,*reukan- | *rauki- | *rauki-,Proto-Germanic | Proto-Germanic | Proto-Germanic
+263 | 1248 | 6875,3,*h₂emg̑ʰ- | *h₂emg̑ʰ- | *h₂emg̑ʰ-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+208 | 237 | 9268,3,*h₂eu̯s- | *h₂keu̯s- | *h₂eu̯s-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+211 | 1240 | 6983,3,*h₃ekʷ- | *obačiti | *h₃ekʷ-,Proto-Indo-European | Proto-Slavic | Proto-Indo-European
+226 | 2742 | 6762,3,*preu̯s- | nan | *preu̯s-,Proto-Indo-European | nan | Proto-Indo-European
+692 | 1575 | 4500,3,*melh₂- | *melh₂- | *melh₂-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+2558 | 2751 | 2761,3,nan | nan | nan,nan | nan | nan
+2526 | 5870 | 7043,3,*tu̯ek- | *tu̯ek- | tvacā,Proto-Indo-European | Proto-Indo-European | Marathi
+613 | 771 | 5040,3,*du̯eh₂- | *du̯eh₂- | *du̯eh₂-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+598 | 5236 | 5442,3,*k̑leu̯- | *k̑leu̯- | *k̑leu̯-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+689 | 2575 | 2576,3,nan | nan | nan,nan | nan | nan
+537 | 1186 | 8396,3,*u̯ert- | *u̯ert- | *u̯ert-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+2806 | 4837 | 7419,3,*těsnъ | *tiskati | *tiskati,Proto-Slavic | Proto-Slavic | Proto-Slavic
+91 | 2831 | 2946,3,*Hoi̯- | nan | nan,Proto-Indo-European | nan | nan
+2654 | 6646 | 7127,3,*(s)kerp- | *(s)kerp- | krapštýti,Proto-Indo-European | Proto-Indo-European | Lithuanian
+2788 | 7026 | 9429,3,*(s)ken⁽g̑⁾- | *(s)ken⁽g̑⁾- | *(s)ken⁽g̑⁾-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1394 | 2895 | 8489,3,*brod- | *mreg̑ʰ- | *mreg̑ʰ-,Romance | Proto-Indo-European | Proto-Indo-European
+2903 | 7234 | 8301,3,*luftu- | *luftu- | *luftu-,Proto-Germanic | Proto-Germanic | Proto-Germanic
+1584 | 6066 | 6277,3,*sem- | *sem- | *sem-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1687 | 5394 | 7107,3,*u̯elh₂- | *u̯elh₂- | *u̯elh₂-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1680 | 2959 | 8769,3,daṇḍá- | nan | daṇḍá-,Vedic | nan | Vedic
+1623 | 3954 | 6868,3,jhāṭa- | jhāṭa- | ǰhalla-,Sanskrit | Sanskrit | Kalaṣa-alâ
+1798 | 2001 | 3002,3,*u̯arká- | *u̯arká- | *u̯alká-,Proto-Indo-Iranic | Proto-Iranic | Proto-Indo-Iranian
+1788 | 6440 | 7444,3,*g̑enh₁- | *g̑enh₁- | *g̑enh₁-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1708 | 2443 | 5094,3,*ret- | *ret- | *ret-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1698 | 1707 | 6753,3,*kiu̯-o- | *kiu̯-o- | *kiu̯-o-,Proto-Celtic | Proto-Celtic | Proto-Celtic
+1859 | 7126 | 9137,3,*g⁽ʷ⁾erdʰ- | *g⁽ʷ⁾erdʰ- | *g⁽ʷ⁾erdʰ-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1814 | 3752 | 6611,3,*(s)re⁽g̑⁾- | *(s)re⁽g̑⁾- | *(s)re⁽g̑⁾-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1894 | 6265 | 8240,3,*kes- | *kes- | *kes-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+832 | 1797 | 4504,3,*ćau̯dʰ- | *ćau̯dʰ- | *ćau̯dʰ-,Proto-Indo-European | Proto-Indo-Iranic | Proto-Indo-Iranic
+816 | 4142 | 6050,3,*dʰā́rā- | *dʰā́rā- | *dʰā́rā-,Proto-Indo-Iranic | Proto-Indo-Iranic | Proto-Indo-Iranic
+831 | 6840 | 7785,3,*sterh₃- | *sterh₃- | *sterh₃-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+796 | 7069 | 9859,3,*h₃eh₁- | *h₃eh₁- | *h₃eh₁-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+754 | 845 | 1643,3,*pakšá- | *pakšá- | *pakšá-,Proto-Indo-Iranic | Proto-Indo-Iranic | Proto-Indo-Iranic
+649 | 1808 | 2245,3,"?*g̑ʰéi̯-om, *g̑ʰ(i)i̯-ém-, *g̑ʰi-m- | ?*g̑ʰéi̯-om, *g̑ʰ(i)i̯-ém-, *g̑ʰi-m- | ?*g̑ʰéi̯-om, *g̑ʰ(i)i̯-ém-, *g̑ʰi-m-",Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+305 | 2083 | 3074,3,*spti̯eu̯H- | nan | *spīwan-,Proto-Indo-European | nan | Proto-Germanic
+559 | 2067 | 2625,3,nan | nan,nan | nan
+2011 | 2771 | 5675,3,*j́rai̯- | *j́rai̯- | nan,Proto-Indo-Iranic | Proto-Indo-Iranic | nan
+2032 | 4980 | 5203,3,*drep- | *drep- | *drep-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1957 | 3389 | 4864,3,*h₂eh₁- | *h₂eh₁- | *h₂eh₁-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+2515 | 5319 | 5872,3,*smer- | μύρον / mýron | *smer-,Proto-Indo-European | Greek: Ancient | Proto-Indo-European
+2473 | 4015 | 6521,3,*pe⁽k̑⁾tu- | *pe⁽k̑⁾tu- | *pe⁽k̑⁾tu-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+2267 | 2304 | 2707,3,?*slak- | ?*slak- | ?*slak-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+2318 | 2325 | 2825,3,*g̑erh₂- | *pes- | *g̑erh₂-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+2370 | 6657 | 7319,3,*gʷem- | *gʷem- | *gʷem-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+2377 | 7318 | 7567,3,*h₁ei̯- | *h₁ei̯- | *h₁ei̯-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+121 | 701 | 6963,3,*kemb- | *kemb- | *kemb-,Proto-Indo-European | nan | Proto-Indo-European
+2196 | 4187 | 5290,3,*keh₂p- | *keh₂p- | *keh₂p-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+2239 | 4919 | 6592,3,*(h₁)reu̯dʰ- | *(h₁)reu̯dʰ- | *(h₁)reu̯dʰ-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1514 | 6541 | 6582,3,*ken- | *ken- | *ken-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1076 | 6729 | 6757,3,*kerH- | *kerH- | *kerH-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1089 | 6209 | 6297,3,*melit- | *melit- | *melit-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1111 | 5133 | 7789,3,*k⁽ʷ⁾ers- | *k⁽ʷ⁾ers- | *k⁽ʷ⁾ers-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1091 | 2338 | 9780,3,*(s)kend- | *(s)kend- | *(s)kend-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1308 | 1356 | 8433,3,ský | *skeui̯a | skjól,Old Norse | Proto-North-Germanic | Old Norse
+953 | 2649 | 8071,3,*h₂ekʷ- | *h₂ekʷ- | *h₂ekʷ-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+966 | 2158 | 2542,3,nan | nan | *ad,nan | nan | Proto-Indo-European
+956 | 1265 | 6576,3,lārgus | lārgus | lārgus,Latin | Latin | Latin
+1510 | 3304 | 4381,3,*steh₃- | *steh₃- | *steh₃-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1512 | 1534 | 2823,3,*k̑ent- | *k̑ent- | nan,Proto-Indo-European | Proto-Indo-European | nan
+1498 | 5152 | 6526,3,*h₂eg̑- | *h₂eg̑- | *h₂eg̑- ,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1502 | 2482 | 8269,3,*s⁽k̑⁾eh₃- | *s⁽k̑⁾eh₃-  | *s⁽k̑⁾eh₃-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1326 | 1480 | 2939,3,*h₃lei̯g̑-,Proto-Indo-European
+1477 | 1506 | 3023,3,*meh₂k̑- | *meh₂k̑- | *meh₂k̑-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1016 | 7989 | 8019,3,*kalona- | *kalona- | *kalona-,Proto-Celtic | Proto-Celtic | Proto-Celtic
+982 | 2741 | 5391,3,*i̯eg̑- | *i̯eg̑- | *i̯eg̑-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+892 | 1259 | 8295,3,*colpus | *colpus | *colpus,Latin | Latin | Latin
+865 | 1454 | 6682,3,*k̑eu̯H- | *k̑eu̯H- | *k̑u̯eh₁-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+330 | 1167 | 1915,3,?*treh₁- | nan | trum̃pas,Proto-Indo-European | nan | Lithuanian
+1173 | 1406 | 1721,3,*meh₁- | 1.*mei̯H- | *meh₁-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+497 | 1065 | 2840,3,*skel- | nan,Proto-Indo-European | nan
+1064 | 1792 | 1970,3,nan | *thukk- | tu,nan | Indic | Ossetic: Iron
+1218 | 2211 | 3116,3,*bʰreu̯s- | *bʰreu̯s- | *bʰreu̯s-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+1194 | 1860 | 1924,3,*medʰ- | *medʰ- | *medʰ-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+68 | 154 | 8667,3,*kʰand- | nan | *kʰand-,Proto-Indo-Iranic | nan | Proto-Indo-Iranic
+71 | 191 | 2984,3,*baina- | *baina- | *baina-,Proto-Germanic | Proto-Germanic | Proto-Germanic
+1112 | 1508 | 5668,3,*kreu̯h₂- | *kreu̯h₂- | *kreu̯h₂-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+76 | 93 | 2726,3,*men- | *men- | nan,Proto-Indo-European | Proto-Indo-European | nan
+1143 | 1737 | 2837,3,*tengʰ- | nan | *tengʰ-,Proto-Indo-European | nan | Proto-Indo-European
+42 | 760 | 9517,3,*h₃mei̯gʰ- | *h₃mei̯gʰ- | *h₃mei̯gʰ-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+27 | 3691 | 8948,3,*hu̯ar- | *hu̯ar- | *hu̯ar-,Proto-Iranic | Proto-Iranic | Proto-Iranic
+14 | 1857 | 7235,3,*k̑elH- | *k̑elH- | *k̑elH-,Proto-Indo-European | Proto-Indo-European | Proto-Indo-European
+2877 | 9633,2,*peu̯H- | *peu̯H-,Proto-Indo-European | Proto-Indo-European
+25 | 3393,2,*gʰau̯š- | *gʰau̯š-,Proto-Indo-Iranic | Proto-Indo-Iranic
+29 | 131,2,*h₂ster- | *h₂ster-,Proto-Indo-European | Proto-Indo-European
+5343 | 6713,2,*per- | *per-,Proto-Indo-European | Proto-Indo-European
+6707 | 7023,2,*leit- | *leit-,Proto-Germanic | Proto-Germanic
+2677 | 6692,2,nan | nan,nan | nan
+6690 | 6694,2,*mesg- | *mesg-,Proto-Indo-European | Proto-Indo-European
+6639 | 8257,2,ὁράω / horáō | ὁράω / horáō,Greek: Ancient | Greek: Ancient
+6578 | 6814,2,*tk̑ei̯- | *tk̑ei̯- ,Proto-Indo-European | Proto-Indo-European
+266 | 6523,2,*negʷ- | *negʷ-,Proto-Indo-European | Proto-Indo-European
+6462 | 6485,2,[دل / dil] | *dānu-,[Persian] | Proto-Iranic
+1386 | 6459,2,*þwahan- | *þwahan-,Proto-Germanic | Proto-Germanic
+6363 | 6461,2,*h₁legʰ- | *h₁legʰ-,Proto-Indo-European | Proto-Indo-European
+6286 | 7794,2,*(s)teu̯p- | *(s)teu̯p-,Proto-Indo-European | Proto-Indo-European
+2356 | 6253,2,ῥίς / rhís | σ̌ίνα / šína,Greek: Ancient | Greek: Tsakonian
+6065 | 6247,2,γούλα / goúla | αναγουλίζουμαι / anagoulízoumai,Greek: Ancient | Greek: Cappadocian
+1558 | 6245,2,στρέφω / stréphō | στρεβλός / streblós,Greek: Ancient | Greek: Ancient
+6217 | 8405,2,*(s)lei̯- | *(s)lei̯-,Proto-Indo-European | Proto-Indo-European
+1547 | 6177,2,εὐθύς / euthýs | εὐθύς / euthýs,Greek: Ancient | Greek: Ancient
+1042 | 1403,2,buter | de bot,Old French | Old French
+1296 | 7109,2,*ster(H)- | *ster(H)-,Proto-Indo-European | Proto-Indo-European
+1271 | 2583,2,tālea | tālea,Latin | Latin
+1267 | 3050,2,*tīrāre | *tīrāre,Latin | Latin
+1262 | 5327,2,crassus | crassus,Latin | Latin
+1247 | 6104,2,*teu̯(h₂)k- | *teu̯(h₂)k-,Proto-Indo-European | Proto-Indo-European
+1212 | 1412,2,*bʰedʰh₂- | *bʰedʰh₂-,Proto-Indo-European | Proto-Indo-European
+1209 | 2868,2,nan | nan,nan | nan
+1202 | 5100,2,*u̯elk̑- | *u̯elk̑-,Proto-Indo-European | Proto-Indo-European
+1190 | 5188,2,*bʰelH- | *bʰelH-,Proto-Indo-European | Proto-Indo-European
+1183 | 5124,2,*deb- | *deb-,Proto-Balto-Slavic | Proto-Balto-Slavic
+1169 | 1297,2,*rek- | *rek-,Proto-Indo-European | Proto-Indo-European
+1142 | 7104,2,*golH-u̯eh₂- | *golH-u̯eh₂,Proto-Indo-European | Proto-Indo-European
+1135 | 1152,2,*kork- | *kork-,Proto-Slavic | Proto-Slavic
+1130 | 1147,2,*bʰei̯H- | *bʰei̯H-,Proto-Indo-European | Proto-Indo-European
+1127 | 1941,2,*mag̑- | *mag̑-,Proto-Indo-European | Proto-Indo-European
+1464 | 5151,2,*h₁er- | *h₁er-,Proto-Indo-European | Proto-Indo-European
+1459 | 1523,2,κόκκαλος / kókkalos | κόκκος / kókkos,Greek: Ancient | Greek: Ancient
+1448 | 7984,2,*steh₂⁽g̑⁾- | aestuarium,Proto-Indo-European | Latin
+1409 | 8289,2,galbinus | [jalne],Latin | [Old French]
+1363 | 1365,2,nan | *wība-,nan | Proto-Germanic
+1359 | 6907,2,*tagla- | *tagla-,Proto-Germanic | Proto-Germanic
+1331 | 1333,2,kasta | kasta,Old Norse | Old Norse
+1329 | 2834,2,nan | *tau̯ro-,nan | Proto-Indo-European
+1324 | 2890,2,nan | ?*hreiban-,nan | Proto-Germanic
+1317 | 2773,2,*saiwi- | *saiwi-,Proto-Germanic | Proto-Germanic
+1110 | 7760,2,*xap- | *xap-,Proto-Slavic | Proto-Slavic
+1109 | 3292,2,*put- | *put-,Proto-Balto-Slavic | Proto-Balto-Slavic
+1087 | 2366,2,*kai̯to- | *kai̯to-,Proto-Celtic | Proto-Celtic
+1083 | 4079,2,nan | *u̯rako-,nan | Proto-Celtic
+1069 | 7335,2,*su̯ei̯d- | *su̯ei̯d-,Proto-Indo-European | Proto-Indo-European
+293 | 1046,2,*sengʷʰ- | nan,Proto-Indo-European | nan
+1565 | 6169,2,ἄσπρος / áspros | ἄσπρος / áspros,Ancient Greek | Greek: Ancient
+1539 | 2287,2,*k̑ei̯- | *k̑ei̯-,Proto-Indo-European | Proto-Indo-European
+1515 | 8706,2,*meu̯k- | *meu̯k-,Proto-Indo-European | Proto-Indo-European
+1484 | 2647,2,*sreu̯- | *sreu̯-,Proto-Indo-European | Proto-Indo-European
+1479 | 5148,2,*bʰegʷ- | *bʰegʷ-,Proto-Indo-European | Proto-Indo-European
+1474 | 6212,2,*g̑ʰeu̯- | *g̑ʰeu̯-,Proto-Indo-European | Proto-Indo-European
+1040 | 4369,2,*rei̯⁽g̑⁾- | *rei̯⁽g̑⁾-,Proto-Indo-European | Proto-Indo-European
+1025 | 3378,2,*dʰalh₁- | *dʰalh₁-,Proto-Indo-European | Proto-Indo-European
+1023 | 2148,2,*sladi̯o- | *sladi̯o-,Proto-Celtic | Proto-Celtic
+985 | 2171,2,*treu̯k- | *trukso-,Proto-Indo-European | Proto-Celtic
+976 | 1079,2,*dʰeu̯b- | *dʰeu̯b-,Proto-Indo-European | Proto-Indo-European
+964 | 5172,2,?*h₂em- | ?*h₂em-,Proto-Indo-European | Proto-Indo-European
+960 | 1447,2,*ko(m)- | *kati,Proto-Indo-European | Proto-Indo-European
+957 | 961,2,nan | mulier,nan | Latin
+951 | 1274,2,nan | *k̑el-,nan | Proto-Indo-European
+1471 | 7479,2,ξηρός / xērós | ξηρός / xērós,Greek: Ancient | Greek: Ancient
+1658 | 2853,2,(برابر) | (برابر),(Persian) | (Persian)
+1633 | 9514,2,kīṭá- | kīṭá-,Vedic | Vedic
+1617 | 3359,2,*seh₁dʰ- | *seh₁dʰ-,Proto-Indo-European | Proto-Indo-European
+1610 | 3966,2,pārśvá- | nan,Vedic | Proto-Indo-European
+1585 | 4117,2,*bʰeng̑ʰ- | *bʰeng̑ʰ-,Proto-Indo-European | Proto-Indo-European
+950 | 7639,2,*h₂elh₂- | *h₂elh₂-,Proto-Indo-European | Proto-Indo-European
+944 | 8072,2,grossus | grossus,Latin | Latin
+937 | 2639,2,nan | *peu̯⁽g̑⁾-,nan | Proto-Indo-European
+927 | 4561,2,*dei̯k̑- | *dei̯k̑- ,Proto-Indo-European | Proto-Indo-European
+925 | 2709,2,nan | *bʰerH-,nan | Proto-Indo-European
+917 | 1399,2,*pelh₂- | *pelh₂-,Proto-Indo-European | Proto-Indo-European
+910 | 1728,2,*men- | *men-,Proto-Indo-European | Proto-Indo-European
+903 | 9168,2,*persneh₂- | خپه / khpa,Proto-Indo-European | Pashto
+895 | 3170,2,glaciēs | glācies,Latin | Latin
+883 | 9287,2,*du̯eno- | *du̯eno-,Proto-Italic | Proto-Italic
+863 | 8381,2,*srei̯Hg̑- | *srei̯Hg̑-,Proto-Indo-European | Proto-Indo-European
+782 | 946,2,?*(s)pend- | ?*(s)pend-,Proto-Indo-European | Proto-Indo-European
+776 | 3115,2,day- | day-,Vedic | Vedic
+750 | 7044,2,challī- | challī-,Sanskrit | Indic
+1901 | 4843,2,*gʷerH- | *gʷerH-,Proto-Indo-European | Proto-Indo-European
+1871 | 6789,2,?*ser- | ?*ser-,Proto-Indo-European | Proto-Indo-European
+1863 | 2281,2,*gul- | *gul-,East Baltic | East Baltic
+1856 | 1862,2,nan | nan,East Baltic | East Baltic
+1851 | 9650,2,*gʷerh₃- | *gʷerh₃-,Proto-Indo-European | Proto-Indo-European
+1809 | 7597,2,khúra- | khúra-,Sanskrit | Sanskrit
+1726 | 6737,2,*koi̯lo- | *koi̯lo-,Proto-Celtic | Proto-Celtic
+1686 | 1722,2,*meh₁- | nan,Proto-Indo-European | nan
+1720 | 2256,2,fota | fota,Old Irish | Old Irish
+1716 | 9537,2,*selg̑- | *selg̑- ,Proto-Indo-European | Proto-Indo-European
+1694 | 1936,2,*leh₁t- | *leh₁t-,Proto-Indo-European | Proto-Indo-European
+1688 | 7184,2,*konh₂m- | *konh₂m-,Proto-Indo-European | Proto-Indo-European
+1667 | 4558,2,ṭaṅka- ~ ṭaṅga- | *ṭheṅga-,Sanskrit | Indic
+1059 | 2147,2,*bekko- | nan,Proto-Celtic | nan
+2144 | 8681,2,*gʷi̯eh₃- | *gʷi̯eh₃-,Proto-Indo-European | Proto-Indo-European
+2108 | 4735,2,*su̯enh₂- | *su̯enh₂-,Proto-Indo-European | Proto-Indo-European
+2046 | 2049,2,nan | nan,nan | nan
+2040 | 2223,2,nan | *kelϸa-,nan | Proto-Germanic
+2012 | 4654,2,*dʰei̯H- | *dʰei̯H-,Proto-Indo-European | Proto-Indo-European
+1990 | 2013,2,*tau̯k- | *tau̯k-,Proto-Indo-Iranic | Proto-Indo-Iranic
+1968 | 2851,2,*xai̯z- | (درست),Proto-Iranic | (Persian)
+1820 | 1951,2,nan,nan
+1880 | 1911,2,nan | nan,nan | Baltic
+854 | 5530,2,?*(H)u̯ed- | *(H)u̯ed-,Proto-Indo-European | Proto-Indo-European
+850 | 6166,2,*(s)ken(H)- | *(s)ken(H)-,Proto-Indo-European | Proto-Indo-European
+836 | 2507,2,?*moṭṭa- | nan,Indic | nan
+823 | 1676,2,*choṭṭa- | *choṭṭa-,Indic | Indic
+808 | 6514,2,*nad- | [nadī-],Proto-Indo-Iranic | [Sanskrit]
+793 | 2836,2,*lembH- | *lembH-,Proto-Indo-European | Proto-Indo-European
+2301 | 8107,2,mattea | *mattea,Latin | Latin
+2296 | 8096,2,tendere | tendere,Latin | Latin
+2293 | 9963,2,*ml̥h₃dʰ- | *ml̥h₃dʰ-,Proto-Indo-European | Proto-Indo-European
+316 | 2269,2,*swimman- | nan,Proto-Germanic | nan
+1877 | 2264,2,nan | nan,Baltic | nan
+2225 | 5281,2,*maitan- | *maitan-,Proto-Germanic | Proto-Germanic
+1139 | 2201,2,*(s)ker- | *(s)ker-,Proto-Indo-European | Proto-Indo-European
+368 | 2179,2,*dʰegʷʰ- | *dʰegʷʰ-,Proto-Indo-European | Proto-Indo-European
+2169 | 7271,2,*sph₂en- | *sph₂en-,Proto-Indo-European | Proto-Indo-European
+532 | 736,2,*lisius | nan,Latin | nan
+720 | 6862,2,"*per-u̯n̥- | *pér-u̯r, *pér-u̯n̥-",Proto-Indo-European | Proto-Indo-European
+704 | 7343,2,phulla- | phulla-,Sanskrit | Sanskrit
+695 | 8431,2,*meld- | *meld-,Proto-Indo-European | Proto-Indo-European
+686 | 6354,2,"*steh₂- | *pršthi-, *pršthá-",Proto-Indo-European | Proto-Indo-Iranic
+678 | 2863,2,nan | nan,nan | nan
+668 | 671,2,*gʷen- | *gʷen-,Proto-Indo-European | Proto-Indo-European
+575 | 2610,2,nan,Slavic
+565 | 6750,2,*⁽k̑⁾an- | *⁽k̑⁾an-,Proto-Indo-European | Proto-Indo-European
+519 | 2791,2,*h₂ost- | *h₂ost-,Proto-Indo-European | Proto-Indo-European
+515 | 913,2,*u̯et- | *u̯et-,Proto-Indo-European | Proto-Indo-European
+698 | 2622,2,nan,nan
+1460 | 2568,2,?*pneu̯- | *pneu̯-,Proto-Indo-European | Proto-Indo-European
+1364 | 2545,2,*u̯í- | nan,Proto-Indo-European | nan
+2538 | 2826,2,nan | *perh₂-,nan | Proto-Indo-European
+2456 | 3058,2,*g̑enu- | *g̑enu-,Proto-Indo-European | Proto-Indo-European
+2448 | 2982,2,*u̯elH- | *u̯elH-,Proto-Indo-European | Proto-Indo-European
+2430 | 2431,2,*k̑ei̯-u̯o- | nan,Proto-Indo-European | nan
+2419 | 5141,2,*dem- | *dem-,Proto-Indo-European | Proto-Indo-European
+2405 | 4200,2,*kweϸan- | *kweϸan-,Proto-Germanic | Proto-Germanic
+2373 | 5819,2,*antʰrōkʷo- | *antʰrōkʷo-,Proto-Greek | Proto-Greek
+2368 | 4726,2,*u̯r̥ćšá- | *u̯r̥ćšá-,Proto-Indo-Iranic | Proto-Indo-Iranic
+2360 | 3135,2,*u̯an- | *u̯an-,Proto-Indo-Iranic | Proto-Indo-Iranic
+2842 | 2847,2,*(s)teu̯d-,Proto-Indo-European
+2822 | 5022,2,*u̯ei̯k̑- | *u̯ei̯k̑-,Proto-Indo-European | Proto-Indo-European
+2689 | 2820,2,*tó- | *tou(H),Proto-Indo-European | Proto-Balto-Slavic
+2798 | 2799,2,nan | nan,nan | nan
+161 | 2750,2,*kʷo- | nan,Proto-Indo-European | nan
+403 | 2743,2,*merg̑⁽ʰ⁾- | *merg̑⁽ʰ⁾-,Proto-Indo-European | Proto-Indo-European
+2324 | 2725,2,[puruṣa-] | nan,[Sanskrit] | nan
+2724 | 3103,2,*poti- | nan,Proto-Indo-European | nan
+2703 | 4555,2,*ṭakk- | nan,Indic | nan
+2436 | 2694,2,*h₂eu̯-,Proto-Indo-European
+2638 | 2710,2,battuere | battuere,Latin | Latin
+640 | 3740,2,*k̑eh₃(i̯)- | *k̑eh₃(i̯)-,Proto-Indo-European | Proto-Indo-European
+600 | 628,2,*per- | *per-,Proto-Indo-European | Proto-Indo-European
+619 | 5163,2,?*u̯e-k⁽ʷ⁾sp-ero- | ?*u̯e-k⁽ʷ⁾sp-ero-,Proto-Indo-European | Proto-Indo-European
+592 | 605,2,*k̑ers- | *k̑ers-,Proto-Indo-European | Proto-Indo-European
+583 | 3344,2,pʿor | pʿor,Armenian: Classical | Armenian: Classical
+464 | 5451,2,*(s)k̑eNs- | *(s)k̑eNs-,Proto-Indo-European | Proto-Indo-European
+421 | 2000,2,nan | nan,nan | nan
+411 | 7068,2,*g̑ʰes- | *g̑ʰes-,Proto-Indo-European | Proto-Indo-European
+404 | 3855,2,pemë | pemë,Albanian: Gheg | Albanian
+402 | 5617,2,këmbë | këmbë,Albanian | Albanian
+3060 | 3824,2,*h₁ep- | *h₁ep-,Proto-Indo-European | Proto-Indo-European
+3055 | 6353,2,*seh₂(i̯)- | ?*seh₂(i̯)-,Proto-Indo-European | Proto-Indo-European
+3036 | 6841,2,*men- | *men-,Proto-Indo-European | Proto-Indo-European
+2213 | 2998,2,*grǫd- | *gʰreu̯(m)bʰ-,Proto-Slavic | Proto-Indo-European
+2996 | 5145,2,*pomp- | *pomp-,Proto-Balto-Slavic | Proto-Balto-Slavic
+2967 | 3004,2,nan | ?*spei̯d-,nan | Proto-Indo-European
+978 | 2918,2,*swisd- | nan,Proto-Celtic | nan
+2910 | 8244,2,*sent- | *sent-,Proto-Indo-European | Proto-Indo-European
+2905 | 8340,2,*h₃lei̯g̑- | *h₃lei̯g̑-,Proto-Indo-European | Proto-Indo-European
+1068 | 2857,2,*efino- | nan,Proto-Celtic | nan
+2852 | 6152,2,ὀρθός / orthós | ὀρθός / orthós,Greek: Ancient | Greek: Ancient
+3313 | 3333,2,ḫaḫliu̯ant- | ḫaḫliu̯ant-,Hittite | Hittite
+3247 | 3315,2,*(h₁)ner- | *(h₁)ner-,Proto-Indo-European | Proto-Indo-European
+3217 | 3236,2,k'ax | k'aχ | k'ax | k'aχ,Ossetic | Ossetic
+3153 | 4862,2,pilus | pilus,Latin | Latin
+3141 | 8102,2,*u̯el- | *u̯el-,Proto-Indo-European | Proto-Indo-European
+2493 | 3122,2,*seu̯k̑- | nan,Proto-Indo-European | nan
+3111 | 6202,2,*h₂eu̯s- | *h₂eu̯s-,Proto-Indo-European | Proto-Indo-European
+3090 | 5924,2,*h₁u̯erH- | *h₁u̯erH-,Proto-Indo-European | Proto-Indo-European
+3082 | 7745,2,*per- | *per-,Proto-Indo-European | Proto-Indo-European
+3080 | 4498,2,*nei̯gʷ- | *nei̯gʷ-,Proto-Indo-European | Proto-Indo-European
+3067 | 9606,2,?*greng̑ʰ- | ?*greng̑ʰ-,Proto-Indo-European | Proto-Indo-European
+510 | 513,2,*g̑erh₂- | *g̑erh₂-,Proto-Indo-European | Proto-Indo-European
+490 | 2991,2,nan | nan,nan | nan
+455 | 489,2,(vēritātem) | drejtë,(Albanian) | Albanian
+388 | 480,2,*bʰerH- | *bʰerH-,Proto-Indo-European | Proto-Indo-European
+471 | 485,2,rri | rri,Albanian | Albanian
+4121 | 8369,2,γαστήρ / gastḗr | *grā̆smen-,Greek: Ancient | Proto-Italic
+4072 | 4368,2,*bend- | *bend-,Proto-Indo-European | Proto-Indo-European
+3856 | 6408,2,shkoj | shkoj,Albanian | Albanian: Standard
+2497 | 3836,2,*bʰu̯eh₂- | *bʰu̯eh₂-,Proto-Indo-European | (Nuristani)
+3614 | 4622,2,*raza- | *raza-,Proto-Iranic | Proto-Iranic
+3603 | 9115,2,baš | nebaš,Kurdish N.: Bahdini | Kurdish N.: Bahdini
+3501 | 5109,2,*su̯eh₂d- | *su̯eh₂d-,Proto-Indo-European | Proto-Indo-European
+1022 | 3398,2,nan | nan,nan | nan
+3381 | 8707,2,*bʰerg̑ʰ- | *bʰerg̑ʰ-,Proto-Indo-European | Proto-Indo-European
+636 | 3343,2,*h₂eg̑- | nan,Proto-Indo-European | nan
+365 | 367,2,fryj | frymë,Albanian | Albanian
+340 | 1442,2,*wīda- | *wīda-,Proto-Germanic | Proto-Germanic
+338 | 1133,2,*k̑u̯ei̯t- | *k̑u̯ei̯t-,Proto-Indo-European | Proto-Indo-European
+332 | 6948,2,*hlaupan- | *hlaupan-,Proto-Germanic | Proto-Germanic
+314 | 1700,2,*seh₂-u̯l̥- | *seh₂-u̯l̥-,Proto-Indo-European | Proto-Indo-European
+3324 | 5401,2,*maninkuu̯a- | *maninkuu̯a-,Hittite | Hittite
+4907 | 5074,2,*tʰalak⁽ʰ⁾i̯a | *tʰalak⁽ʰ⁾i̯a,Proto-Greek | Proto-Greek
+1463 | 4901,2,κρύος / krýos | κρύσταλλος / krýstallos,Greek: Ancient | Greek: Ancient
+4828 | 4833,2,*kerH- | *kerH-,Proto-Indo-European | Proto-Indo-European
+4594 | 6094,2,pipīlá- | pipīlá-,Vedic | Vedic
+4586 | 7356,2,*goḍḍa- | *goḍḍa-,Indic | Indic
+4585 | 9945,2,nan | nan,nan | nan
+4508 | 6878,2,*bʰeu̯dʰ- | *bât-,Proto-Indo-European | Nuristani
+1017 | 4366,2,ponnher | nan,Middle Breton | nan
+885 | 4365,2,uiridis | nan,Latin | nan
+4150 | 8735,2,dhūli- | dhūli-,Sanskrit | Sanskrit
+115 | 308,2,*(s)tei̯g- | nan,Proto-Indo-European | nan
+291 | 7034,2,*(s)kerbʰ- | *(s)kerbʰ-,Proto-Indo-European | Proto-Indo-European
+283 | 5157,2,*sal- | *sal-,Proto-Indo-European | Proto-Indo-European
+250 | 287,2,*mor-i- | *mor-i-,Proto-Indo-European | Proto-Indo-European
+248 | 2708,2,*drepan- | *drepan-,Proto-Germanic | Proto-Germanic
+4125 | 7302,2,*tu̯erk̑- | *tu̯erk̑- ,Proto-Indo-European | Proto-Indo-European
+5432 | 8365,2,*⁽g̑⁾ʰeh₁- | *⁽g̑⁾ʰeh₁-,Proto-Indo-European | Proto-Indo-European
+5339 | 6254,2,ὀξύς / oxýs | ὀξύς / oxýs,Greek: Ancient | Greek: Ancient
+1526 | 5313,2,*drem- | nan,Proto-Indo-European | nan
+5271 | 6693,2,*h₃reu̯k- | *h₃reu̯k-,Proto-Indo-European | Proto-Indo-European
+5265 | 6774,2,*gʷeh₂- | *gʷeh₂-,Proto-Indo-European | Proto-Indo-European
+1375 | 5228,2,*klawō- | *klawō-,Proto-Germanic | Proto-Germanic
+880 | 5115,2,uolāre | *gʷelh₁-,Latin | Proto-Indo-European
+5113 | 5453,2,*kers- | *kers-,Proto-Indo-European | Proto-Indo-European
+4987 | 6014,2,*kond- | *kond-,Proto-Balto-Slavic | Proto-Balto-Slavic
+4966 | 5214,2,*terkʷ- | *terkʷ-,Proto-Indo-European | Proto-Indo-European
+2152 | 4951,2,*terh₁- | *terh₁-,Proto-Indo-European | Proto-Indo-European
+201 | 2305,2,*dʰeu̯- | *dʰeu̯-,Proto-Indo-European | Proto-Indo-European
+193 | 2502,2,*brinnan- | *branda-,Proto-Germanic | Proto-Germanic
+188 | 4865,2,*su̯ord-o- | *su̯ord-o-,Proto-Indo-European | Proto-Indo-European
+4934 | 4941,2,nan | nan,nan | Brythonic
+3390 | 4918,2,*gu̯osd-  | *gu̯osd-,Proto-Indo-European | Proto-Indo-European
+6145 | 6146,2,*(s)legh₂- | *(s)legh₂-,Proto-Indo-European | Proto-Indo-European
+6111 | 8198,2,*pei̯s- | *pei̯s-,Proto-Indo-European | Proto-Indo-European
+6110 | 8487,2,kapā́la- | kapā́la-,Vedic | Vedic
+856 | 6057,2,*h₂eu̯-i- | *h₂eu̯-i-,Proto-Indo-European | Proto-Indo-European
+6013 | 6249,2,*tu̯er- | *tu̯er-,Proto-Indo-European | Proto-Indo-European
+5920 | 6458,2,*k̑erd- | *k̑erd-,Proto-Indo-European | Proto-Indo-European
+2189 | 5845,2,*bʰes-  | bhasma,Proto-Indo-European | Sanskrit
+5834 | 6206,2,ἀληθής / alēthḗs | ἀληθής / alēthḗs,Greek: Ancient | Greek: Ancient
+5738 | 7952,2,[برف / barf] | [برف / barf],[Persian] | [Persian]
+2200 | 5445,2,*kaʦo | *kaʦay,Proto-Tocharian | Proto-Tocharian
+5435 | 5982,2,*(h₁)reu̯g̑- | *(h₁)reu̯g-,Proto-Indo-European | Proto-Indo-European
+178 | 2492,2,*h₂eh₁s- | *h₂eh₁s-,Proto-Indo-European | Proto-Indo-European
+132 | 2978,2,nan | lakuṭa-,nan | Sanskrit
+127 | 1940,2,*kʷi- | nan,nan | nan
+119 | 5867,2,πέσκος / péskos | πέσκος / péskos,Greek: Ancient | Greek: Ancient
+108 | 5054,2,*Sikatā- | *Sikatā-,Proto-Indo-Iranic | Proto-Indo-Iranic
+44 | 6732,2,"*kʷetu̯or-, *kʷ(e)tu̯r̥-, *kʷ(e)tur- | *kʷetu̯or-, *kʷ(e)tu̯r̥-, *kʷ(e)tur-",Proto-Indo-European | Proto-Indo-European
+6710 | 9568,2,boreās | boreās,Latin | Latin
+9474 | 9515,2,*skambha- | *skambha-,Indic | Indic
+9470 | 9577,2,*h₁rei̯p- | *h₁rei̯p-,Proto-Indo-European | Proto-Indo-European
+9445 | 9512,2,*lei̯kʷ- | *lei̯kʷ-,Proto-Indo-European | Proto-Indo-European
+1290 | 9428,2,*gʷeh₁dʰ- | *gʷeh₁dʰ-,Proto-Indo-European | Proto-Indo-European
+8535 | 8536,2,shalja | shalja,Albanian: Arbëresh | Albanian: Arbëresh
+2103 | 8303,2,*dampa- | *dampa-,Proto-Germanic | Proto-Germanic
+8286 | 8530,2,mjegull | negja,Albanian | Albanian: Arbëresh
+8248 | 8249,2,*mannan- | *mannan-,Proto-Germanic | Proto-Germanic
+8233 | 9337,2,?*u̯reh₂d- | ?*u̯reh₂d-,Proto-Indo-European | Proto-Indo-European
+8223 | 9362,2,*i̯et- | *i̯et-,Proto-Indo-European | Proto-Indo-European
+6903 | 9443,2,*per- | *per-,Proto-Indo-European | Proto-Indo-European
+1625 | 6861,2,*ullaṭ- | *kas-/*ka-,Indic | Indic
+2706 | 6852,2,sit | sit,Latvian | Latvian
+6836 | 7381,2,*u̯ar- | *u̯ar-,Proto-Indo-Iranic | Proto-Indo-Iranic
+7 | 4524,2,*mr̥gá- | *mr̥gá- ,Proto-Indo-Iranic | Proto-Indo-Iranic
+3042 | 7753,2,*kyta-,Proto-Slavic
+7742 | 9279,2,*u̯elh₁- | *u̯elh₁-,Proto-Indo-European | Proto-Indo-European
+1153 | 7649,2,*dʰrebʰ- | *dʰrebʰ-,Proto-Indo-European | Proto-Indo-European
+267 | 7633,2,*(H)nā̆s- | *(H)nā̆s-,Proto-Indo-European | Proto-Indo-European
+4006 | 7588,2,*kʷek̑- | *kʷek̑-,Proto-Indo-European | Proto-Indo-European
+753 | 7564,2,vaḍḍa- | *Hu̯aRdʱ-,Middle Indic | Proto-Indo-Iranic
+1682 | 7508,2,muṭati | nan,Sanskrit | nan
+7493 | 8388,2,*deh₂u̯- | *deh₂u̯-,Proto-Indo-European | Proto-Indo-European
+1560 | 7478,2,*pent- | *pent-,Proto-Indo-European | nan
+323 | 7472,2,"*só- ~ *tó- | *h₁í-, *h₁ei̯-, *h₁i̯ó- ",Proto-Indo-European | Proto-Indo-European
+6655 | 7468,2,*(H)i̯eh₂- | *(H)i̯eh₂-,Proto-Indo-European | Proto-Indo-European
+7345 | 9431,2,*per- | *per-,Proto-Indo-European | Proto-Indo-European
+768 | 7236,2,*kárna- | *kárna-,Proto-Indo-Iranic | Proto-Indo-Iranic
+7057 | 9518,2,*seg- | *seg-,Proto-Indo-European | Proto-Indo-European
+6957 | 8346,2,*bʰelg̑ʰ- | *bʰelg̑ʰ-,Proto-Indo-European | Proto-Indo-European

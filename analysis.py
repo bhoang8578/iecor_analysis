@@ -78,16 +78,29 @@ for node in parent:
 
 print(f"merged into {len(clusters)} clusters")
 
+# build a lookup from id -> root_form and root_language
+root_lookup = df.set_index("id")[["root_form", "root_language"]].to_dict("index")
+
 # write output
-# build one row per cluster for the output csv
 rows = []
 for representative, members in clusters.items():
-    rows.append({
-        # sort the ids so the output is consistent and easy to read
-        "cognateset_ids": " | ".join(str(i) for i in sorted(members)),
-        "n_cognatesets":  len(members),
-    })
+    sorted_members = sorted(members)
+    
+    # collect root_form and root_language for each member id in the cluster
+    root_forms = []
+    root_languages = []
+    for mid in sorted_members:
+        if mid in root_lookup:
+            root_forms.append(str(root_lookup[mid]["root_form"]))
+            root_languages.append(str(root_lookup[mid]["root_language"]))
 
+    rows.append({
+        "cognateset_ids":  " | ".join(str(i) for i in sorted_members),
+        "n_cognatesets":   len(sorted_members),
+        "root_forms":      " | ".join(root_forms),
+        "root_languages":  " | ".join(root_languages),
+    })
+    
 # sort so the largest clusters appear first
 output = pd.DataFrame(rows).sort_values("n_cognatesets", ascending=False)
 output.to_csv("id_clusters.csv", index=False)
